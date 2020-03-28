@@ -1,0 +1,12 @@
+bdateutil==0.1
+certifi==2019.6.16
+chardet==3.0.4
+DateTime==4.3
+holidays==0.9.11
+idna==2.8
+python-dateutil==2.2
+pytz==2019.2
+requests==2.22.0
+six==1.12.0
+urllib3==1.25.3
+zope.interface==4.6.0
