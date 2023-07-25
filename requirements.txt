@@ -1,5 +1,5 @@
 bdateutil==0.1
-certifi==2022.12.7
+certifi==2023.7.22
 chardet==3.0.4
 DateTime==4.3
 holidays==0.9.11
